@@ -6,6 +6,6 @@ The GUI has been implemented with the help of [Tkinter.](https://docs.python.org
 To run the program: 
 `cd DataCompression && python gui.py`
 
-Click on `Compress File` to choose your file, and `Decompress File` to decompress a file that has been compressed with our program.
+Click on `Compress File` to choose your file, and `Decompress File` to decompress a file that has been compressed with this program.
 
 ![Main GUI](/gui_ss.png)
